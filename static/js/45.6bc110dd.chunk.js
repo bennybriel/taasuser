@@ -1,0 +1,1 @@
+(this["webpackJsonpacorn-react"]=this["webpackJsonpacorn-react"]||[]).push([[45],{122:function(c,a,e){"use strict";e.r(a);e(0);var s=e(8);a.default=()=>Object(s.jsx)("h1",{children:"File Uploads"})}}]);

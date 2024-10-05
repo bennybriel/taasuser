@@ -1,0 +1,1 @@
+(this["webpackJsonpacorn-react"]=this["webpackJsonpacorn-react"]||[]).push([[47],{127:function(c,e,r){"use strict";r.r(e);r(0);var s=r(8);e.default=()=>Object(s.jsx)("h1",{children:"User Profile"})}}]);

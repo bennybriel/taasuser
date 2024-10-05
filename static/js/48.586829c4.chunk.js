@@ -1,0 +1,1 @@
+(this["webpackJsonpacorn-react"]=this["webpackJsonpacorn-react"]||[]).push([[48],{406:function(e,a,c){"use strict";c.r(a);c(0);var s=c(8);a.default=()=>Object(s.jsx)(s.Fragment,{children:"This is HomePage."})}}]);
